@@ -42,6 +42,8 @@ Specificity: 5/10
 
 🧠 Overall Prompt Score: 6.2/10
 🟡 Decent, but could be improved.
+
+
 🎯 Why Use This?
 
 AI tools work best when given clear, specific, and well-structured prompts.
